@@ -8,10 +8,12 @@ print("Hello world") #Конечное действие для задачи
 #intput("Hello world") #Сохраняет введеные данные 
 nimi = input("Sisestage nimi ").capitalize #lover()-aaa, upper()-AAA, capitalize()-Aaa
 print("Tere tulemast",nimi)
-print("tere tulemast "+nimi)
-vanus=int(input("Kui vana sa oled? "))
-print("Tere tulemast! Tervitan sind " +nimi+ "sa oled",vanus,"aastat vana")
-print(f"Tere tulemast! Tervitan sind {nimi} Sa olde {vanus} aastat vana")
+# print("tere tulemast " + {nimi})
+try:
+    vanus=int(input("Kui vana sa oled? "))
+except:
+    print("Tere tulemast! Tervitan sind " +nimi+ "sa oled",vanus,"aastat vana")
+    print(f"Tere tulemast! Tervitan sind {nimi} Sa olde {vanus} aastat vana")
 
 # Ülesanne 2
 vanus = 18

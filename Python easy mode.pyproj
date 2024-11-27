@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c8a165ab-e616-474b-b1ac-f499c90f60d9</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_easy_mode.py</StartupFile>
+    <StartupFile>Ulesanne2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Python_easy_mode.py" />
+    <Compile Include="Ulesanne1.py" />
+    <Compile Include="Ulesanne2.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
