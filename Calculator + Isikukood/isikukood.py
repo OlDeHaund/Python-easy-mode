@@ -1,5 +1,4 @@
 ﻿from datetime import *
-
 # Проверка на количество символов
 def id_pikkus(ikood:str)->bool:
     """Kontrollib isikukoodi pikkust
