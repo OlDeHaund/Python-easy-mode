@@ -1,0 +1,48 @@
+Estonia-Tallinn
+Germani-Berlin
+Finland-Helsinki
+Denmark-Konepgagen
+Sweden-Stockholm
+Norway-Oslo
+Iceland-Reykjavik
+Latvia-Riga
+Lithuania-Vilnius
+Russia-Moscow
+Belarus-Minsk
+Ukraine-Kiev
+Poland-Warsaw
+Czech Republic-Prague
+Slovakia-Bratislava
+Hungary-Budapest
+Austria-Vienna
+Switzerland-Bern
+Liechtenstein-Vaduz
+Netherlands-Amsterdam
+Belgium-Brussels
+Luxembourg-Luxembourg
+Ireland-Dublin
+United Kingdom-London
+Spain-Madrid
+Portugal-Lisbon
+France-Paris
+Monaco-Monaco
+Italy-Rome
+San Marino-San Marino
+Vatican City-Vatican City
+Malta-Valletta
+Greece-Athens
+Albania-Tirana
+Macedonia-Skopje
+Bulgaria-Sofia
+Romania-Bucharest
+Moldova-Chisinau
+Serbia-Belgrade
+Bosnia and Herzegovina-Sarajevo
+Croatia-Zagreb
+Slovenia-Ljubljana
+Montenegro-Podgorica
+Kosovo-Pristina
+Serbia-Belgrade
+Bosnia and Herzegovina-Sarajevo
+Croatia-Zagreb
+
